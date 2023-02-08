@@ -1,3 +1,6 @@
+# Live Preview
+https://netflix-carousel-nine.vercel.app/
+
 # netflix-js-carousel
 
 ## Bundler: Vite
